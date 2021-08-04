@@ -1,10 +1,14 @@
 import tweepy
 from sys import argv
 
-consumer_key = 'e2IfpmdsIHGSy9KeZElwVMVBK'
-consumer_secret = 'r335K4VZs1FaQO3W2K7sEmUPHmRyrkdwFqTi643P7w01ub2k04'
-access_token = '1197282599493947397-q1DcubDTGUa0vnxPglvlPh3VDb8U5B'
-access_token_secret = 'lqizyFTcpx4rdBWGibM3HKlCDToExq5LDXONrc9ixQqRc'
+consumer_key = '#########################'
+                
+consumer_secret = '##################################################'
+                   
+access_token = '##################################################'
+                
+access_token_secret = '#############################################'
+                       
 
 
 def OAuth():
